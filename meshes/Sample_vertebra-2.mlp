@@ -1,0 +1,18 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh visible="1" filename="meshes/meshes/sub-gl003_dir-ax_lab1.obj" idInFile="-1" label="sub-gl003_dir-ax_lab1.obj">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" solidColor="192 192 192 255" boxColor="234 234 234 255" pointColor="252 233 79 255" pointSize="3" wireWidth="1">100001000000000000000000000001010100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="meshes/meshes/sub-gl003_dir-ax_lab6.obj" idInFile="-1" label="sub-gl003_dir-ax_lab6.obj">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" solidColor="192 192 192 255" boxColor="234 234 234 255" pointColor="252 233 79 255" pointSize="3" wireWidth="1">100001000000000000000000000001010100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
